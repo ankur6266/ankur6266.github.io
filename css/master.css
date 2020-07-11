@@ -18,6 +18,10 @@
     font-family: arial, helvetica, sans-serif; /* set the font here */
     text-align: center;/* set the text alignment here */
    }
+   div{
+     text-align: left;
+     display: inline-block;
+   }
 
   footer {
     margin-top: 2rem;
